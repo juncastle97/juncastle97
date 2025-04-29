@@ -1,7 +1,7 @@
 <!-- Contact -->
 <div align="center">
 
-<h2>🍀 Contact 🍀</h2>
+<h2>🍀 About Me 🍀</h2>
 
 <a href="mailto:juncastle97@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
