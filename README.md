@@ -1,18 +1,9 @@
-<!-- Contact -->
 <div align="center">
-
-<h2>🍀 About Me 🍀</h2>
-
-<a href="mailto:juncastle97@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://velog.io/@juncastle/posts" target="_blank">
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
-
+  <h4>👋 Welcome juncastle's github profile!</h4>
 </div>
 
-<br /><br /><br />
+<br />
+
 <!-- Skills -->
 <div align="center">
 
@@ -37,8 +28,7 @@
 
 </div>
 
-<br /><br /><br />
-
+<br />
 <!-- GitHub Stats -->
 <div align="center">
 
@@ -50,4 +40,19 @@
 
 </div>
 
+<br />
+
+<!-- Contact -->
+<div align="center">
+
+<h2>🍀 Follow Me 🍀</h2>
+
+<a href="mailto:juncastle97@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://velog.io/@juncastle/posts" target="_blank">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+
+</div>
 
